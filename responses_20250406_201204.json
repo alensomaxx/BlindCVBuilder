@@ -1,0 +1,19 @@
+{
+    "name": "Alan Alex",
+    "tag": "drug dealer",
+    "date_of_birth": "01/01/2000",
+    "country": "India",
+    "city": "Kochi",
+    "phone": "+91XXXXXXXXXX",
+    "email": "test@example.com",
+    "github": "https://github.com/testuser",
+    "linkedin": "https://linkedin.com/in/testuser",
+    "education": "B.Tech in Computer Science from XYZ University",
+    "school": "ABC School",
+    "experience": "Software Intern at TestCorp for 6 months",
+    "responsibilities": "Class Representative and Media Club Head",
+    "projects": "Voice Controlled CV Builder using Python",
+    "achievements": "Winner at Inter-College Coding Contest",
+    "qr_code": "yes",
+    "style": "basic"
+}

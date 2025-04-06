@@ -8,6 +8,8 @@ import qrcode
 from datetime import datetime
 import time
 
+#version2.21
+
 # Setup TTS
 engine = pyttsx3.init()
 engine.setProperty('rate', 180)

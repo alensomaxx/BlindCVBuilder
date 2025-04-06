@@ -1,0 +1,36 @@
+{
+    "name": "Alenso",
+    "location": "Kochi",
+    "tag": "Backend Engineer",
+    "education": "B.Tech in Computer Science from NIT Calicut (2022)",
+    "experience": [
+        {
+            "company": "TCS",
+            "role": "Software Intern",
+            "duration": "6 months",
+            "bullets": [
+                "Built an internal HR tool used by 3 departments",
+                "Improved admin dashboard performance by 25%",
+                "Collaborated in an agile team of 6 engineers"
+            ]
+        }
+    ],
+    "projects": [
+        {
+            "title": "BlindCVBuilder",
+            "description": "Developed a voice-powered CV builder for blind users to generate resumes using spoken input."
+        }
+    ],
+    "interests": [
+        "Artificial Intelligence",
+        "Inclusive Technology"
+    ],
+    "skills": [
+        "Python",
+        "APIs",
+        "Speech Recognition",
+        "FPDF",
+        "Automation"
+    ],
+    "email": "hello Alexa"
+}
